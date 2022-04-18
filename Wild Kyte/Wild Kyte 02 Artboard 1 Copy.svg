@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="792px"
+	 height="612px" viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C2C2C1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#EE8545;stroke:#EE8545;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#4B93C7;stroke:#EE8545;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#100E0E;stroke:#EE8545;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#4B93C6;stroke:#EE8545;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#110E0E;stroke:#EE8545;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:#110E0E;}
+	.st7{fill:#4B93C7;}
+	.st8{fill:#EE8545;}
+	.st9{fill:#C2C2C1;}
+	.st10{fill:none;}
+	.st11{font-family:'AcuminPro-Regular';}
+	.st12{font-size:27px;}
+	.st13{font-size:23px;}
+</style>
+<g id="Frame">
+</g>
+<g id="Letters">
+</g>
+<g id="Colors">
+	<rect x="101.5" y="97.22" class="st6" width="83.5" height="83.5"/>
+	<rect x="101.5" y="224.22" class="st7" width="83.5" height="83.5"/>
+	<rect x="101.5" y="351.22" class="st8" width="83.5" height="83.5"/>
+	<rect x="101.5" y="478.22" class="st9" width="83.5" height="83.5"/>
+	<rect x="332.25" y="97.22" class="st6" width="83.5" height="83.5"/>
+	<rect x="332.25" y="224.22" class="st7" width="83.5" height="83.5"/>
+	<rect x="332.25" y="351.22" class="st8" width="83.5" height="83.5"/>
+	<rect x="332.25" y="478.22" class="st9" width="83.5" height="83.5"/>
+	<rect x="570.93" y="94.35" class="st6" width="83.5" height="83.5"/>
+	<rect x="570.93" y="221.35" class="st7" width="83.5" height="83.5"/>
+	<rect x="570.93" y="348.35" class="st8" width="83.5" height="83.5"/>
+	<rect x="570.93" y="475.35" class="st9" width="83.5" height="83.5"/>
+	<rect x="100.37" y="56.03" class="st10" width="85.76" height="30.81"/>
+	<text transform="matrix(1 0 0 1 116.0361 75.8521)" class="st11 st12">RGB</text>
+	<rect x="331.12" y="56.03" class="st10" width="85.76" height="30.81"/>
+	<text transform="matrix(1 0 0 1 336.4162 75.8521)" class="st11 st12">CMYK</text>
+	<rect x="569.8" y="53.15" class="st10" width="85.76" height="30.81"/>
+	<text transform="matrix(1 0 0 1 586.9611 72.9729)" class="st11 st12">HEX</text>
+	<rect x="199.38" y="102.22" class="st10" width="97.23" height="93"/>
+	<text transform="matrix(1 0 0 1 199.3809 119.1059)"><tspan x="0" y="0" class="st11 st13">R-0</tspan><tspan x="0" y="27.6" class="st11 st13">G-0</tspan><tspan x="0" y="55.2" class="st11 st13">B-0</tspan></text>
+	<rect x="664.88" y="122.02" class="st10" width="110" height="28.15"/>
+	<text transform="matrix(1 0 0 1 664.8747 138.9011)" class="st11 st13">#110E0E</text>
+	<rect x="199.38" y="231.22" class="st10" width="97.23" height="93"/>
+	<text transform="matrix(1 0 0 1 199.3809 248.1059)"><tspan x="0" y="0" class="st11 st13">R-75</tspan><tspan x="0" y="27.6" class="st11 st13">G-147</tspan><tspan x="0" y="55.2" class="st11 st13">B-199</tspan></text>
+	<rect x="199.38" y="360.22" class="st10" width="97.23" height="93"/>
+	<text transform="matrix(1 0 0 1 199.3809 377.1059)"><tspan x="0" y="0" class="st11 st13">R-238</tspan><tspan x="0" y="27.6" class="st11 st13">G-133</tspan><tspan x="0" y="55.2" class="st11 st13">B-69</tspan></text>
+	<rect x="199.38" y="482.22" class="st10" width="97.23" height="93"/>
+	<text transform="matrix(1 0 0 1 199.3809 499.1059)"><tspan x="0" y="0" class="st11 st13">R-194</tspan><tspan x="0" y="27.6" class="st11 st13">G-194</tspan><tspan x="0" y="55.2" class="st11 st13">B-193</tspan></text>
+	<rect x="430.38" y="93.91" class="st10" width="97.23" height="109.63"/>
+	<text transform="matrix(1 0 0 1 430.3809 110.7915)"><tspan x="0" y="0" class="st11 st13">C-47</tspan><tspan x="0" y="27.6" class="st11 st13">M-42</tspan><tspan x="0" y="55.2" class="st11 st13">Y-42</tspan><tspan x="0" y="82.8" class="st11 st13">K-85</tspan></text>
+	<rect x="430.38" y="217.22" class="st10" width="97.23" height="107"/>
+	<text transform="matrix(1 0 0 1 430.3809 234.1059)"><tspan x="0" y="0" class="st11 st13">C-84</tspan><tspan x="0" y="27.6" class="st11 st13">M-25</tspan><tspan x="0" y="55.2" class="st11 st13">Y-2</tspan><tspan x="0" y="82.8" class="st11 st13">K-0</tspan></text>
+	<rect x="430.38" y="346.47" class="st10" width="97.23" height="106.75"/>
+	<text transform="matrix(1 0 0 1 430.3809 363.3564)"><tspan x="0" y="0" class="st11 st13">C-7</tspan><tspan x="0" y="27.6" class="st11 st13">M-55</tspan><tspan x="0" y="55.2" class="st11 st13">Y-73</tspan><tspan x="0" y="82.8" class="st11 st13">K-1</tspan></text>
+	<rect x="430.38" y="475.47" class="st10" width="97.23" height="105"/>
+	<text transform="matrix(1 0 0 1 430.3809 492.3564)"><tspan x="0" y="0" class="st11 st13">C-26</tspan><tspan x="0" y="27.6" class="st11 st13">M-18</tspan><tspan x="0" y="55.2" class="st11 st13">Y-16</tspan><tspan x="0" y="82.8" class="st11 st13">K-3</tspan></text>
+	<rect x="664.88" y="256.65" class="st10" width="110" height="28.15"/>
+	<text transform="matrix(1 0 0 1 664.8747 273.5303)" class="st11 st13">#4B9C37</text>
+	<rect x="664.88" y="378.9" class="st10" width="110" height="28.15"/>
+	<text transform="matrix(1 0 0 1 664.8747 395.7803)" class="st11 st13">#EE8545</text>
+	<rect x="664.88" y="505.9" class="st10" width="110" height="28.15"/>
+	<text transform="matrix(1 0 0 1 664.8747 522.7803)" class="st11 st13">#C2C2C1</text>
+</g>
+</svg>
