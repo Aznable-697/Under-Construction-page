@@ -63,11 +63,18 @@ h3{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    color: #4B93C7;
 }
 
-a {
-    color: #4B93C7;
+.fa-twitter {
+color:#26a7de
+}
+
+.fa-instagram {
+    color:#FFFFFF;
+}
+
+.fa-youtube {
+    color:red;
 }
 
 i {
